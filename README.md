@@ -7,7 +7,7 @@ Because there are Network Operators that specifically rely on IRR to create filt
 The Resource Public Key Infrastructure (RPKI) is a system for verifying the authenticity of Internet routing information. By registering Internet resources in RPKI, network operators can create cryptographic signatures that validate the legitimacy of their routing information.
 
 Routers receiving BGP updates can use these signatures to validate the routing information's authenticity and prevent malicious route hijacks. Registering Internet resources in RPKI is crucial to prevent accidental misconfigurations and deliberate attacks on BGP routing, improving the security and stability of the Internet routing system.
-![Uploading image.png…]()
+[![Uploading image.png…]()](https://labs.ripe.net/media/images/RPKI_IRR_REGISTRATION.width-1536.png)
 
 RPKI_IRR_REGISTRATION
 Registering Internet resources in IRR and RPKI databases is fundamental in helping to ensure that BGP routes can be authenticated!
