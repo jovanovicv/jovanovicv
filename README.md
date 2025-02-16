@@ -1,5 +1,1 @@
-About
-
-Dedicated, precise, broadly oriented IT professional, with over twenty years of experience in Carrier networking, Enterprise networking, with an emphasis on security solutions through implementation for different types of networks and technologies.
-He works to the highest standards and has a common sense approach to solving problems.
-Ambitious, team oriented. Eager to learn, improve and focus on challenging tasks in the field of planning, designing and coordinating projects, both in the public and private sectors.
+ROV (RPKI Origin Validation RFC8481) is a security mechanism that enhances the security of BGP routing by providing a way to cryptographically validate the origin of BGP route announcements. To implement ROV, network operators must first register their Internet resources into the RPKI system and create a Route Origin Authorization (ROA) record for each prefix they advertise to the Internet. The ROA record contains information about the prefix and the autonomous system (AS) that is authorized to originate it.
