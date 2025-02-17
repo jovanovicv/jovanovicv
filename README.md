@@ -5,3 +5,4 @@ https://fortiguard.fortinet.com/threat-map
 https://github.com/nicolaka/netshoot
 https://www.nirsoft.net/utils/network_traffic_view.html
 https://www.lifewire.com/how-to-fix-xinput1-3-dll-not-found-or-missing-errors-2624329
+https://wg.orz.tools/
