@@ -8,3 +8,4 @@ https://www.lifewire.com/how-to-fix-xinput1-3-dll-not-found-or-missing-errors-26
 https://wg.orz.tools/
 https://www.cogentco.com/en/looking-glass
 https://datatracker.ietf.org/doc/html/rfc2992
+https://portal.devolutions.com/
