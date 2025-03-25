@@ -27,3 +27,4 @@ https://nagstamon.de/
 https://github.com/zabbix/community-templates/#zabbix-public-templates
 https://microk8s.io/docs/add-launch-config
 https://github.com/jovanovicv/jovanovicv
+https://excalidraw.com/#room=1e76c458ae006d369d81,FhyDdbiQoC5QjfKkaSoHIw
