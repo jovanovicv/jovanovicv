@@ -28,3 +28,4 @@ https://github.com/zabbix/community-templates/#zabbix-public-templates
 https://microk8s.io/docs/add-launch-config
 https://github.com/jovanovicv/jovanovicv
 https://excalidraw.com/#room=1e76c458ae006d369d81,FhyDdbiQoC5QjfKkaSoHIw
+https://www.coursera.org/articles/aws-vs-azure-vs-google-cloud?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA__coursera_FTCOF_career-academy_pmax-multiple-audiences-country-multi&campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gad_source=1&gclid=Cj0KCQjw4MSzBhC8ARIsAPFOuyW0zvD0jv9pulPgoL--OmOb9J5O0g7B_qjOlCR6BXv5IrXkMXeG6w4aAs6wEALw_wcB
